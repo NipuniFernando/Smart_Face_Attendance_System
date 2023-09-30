@@ -1,1 +1,1 @@
-# Smart_Face_Attendance_System
+# Smart_Face_Recognition_System
